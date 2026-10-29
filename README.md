@@ -1,10 +1,9 @@
 # Booking Workflow Requirements — SlotSure (fictional)
 
-A product-requirements case study for an interview-slot booking flow at an invented business school. It shows how I take a messy manual process and turn it into personas, a user journey, testable requirements, explicit business rules, edge cases, test scenarios and a measurement plan.
+A product-requirements case study for an interview-slot booking flow at an invented business school. It shows how a messy manual process becomes personas, a user journey, testable requirements, explicit business rules, edge cases, test scenarios and a measurement plan.
 
 **This is a documentation project, not a working application.** The organisation, people and numbers are fictional.
 
-> **Before publishing — delete this box once true.** Drafted with AI assistance (Claude). Keep "My contribution" only after you have reviewed every rule and can defend each trade-off in an interview.
 
 ---
 
@@ -59,11 +58,7 @@ Nothing is implemented, so nothing has been executed against software. What *is*
 
 ## My contribution
 
-**[CONFIRM BEFORE PUBLISHING — keep only what is true]**
-
-- Chose the scenario and the questions the pack had to answer.
-- Drafted with AI assistance (Claude), then reviewed and edited the rules, edge cases and metrics.
-- [FILL IN what you changed or added yourself]
+I set the brief: a fictional booking scenario, independent of any company work, covering personas, requirements, business rules, edge cases, tests and measurement. The pack was drafted with AI assistance (Claude), as the commit history shows. I am reviewing each rule and trade-off; changes I make will appear as my own commits.
 
 ## Tools
 
