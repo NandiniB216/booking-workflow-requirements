@@ -96,6 +96,6 @@ I defined the fictional business problem and scope for the requirements pack, in
 
 ## Tools and licences
 
-Markdown · Mermaid (planned diagrams) · Python (traceability script)
+Markdown · Mermaid diagrams · Python (traceability script)
 
 Documentation: CC BY 4.0. Traceability script: MIT.
