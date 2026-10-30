@@ -12,6 +12,7 @@ This repository demonstrates business analysis and product documentation: turnin
 
 | Document | What you will find |
 |---|---|
+| [Workflow map](docs/workflow-map.md) | Proposed student booking journey and conceptual booking lifecycle diagrams |
 | [Requirements](docs/requirements.md) | Personas, journey and booking states, user stories, acceptance criteria, business rules, edge cases and non-functional requirements |
 | [Test scenarios](docs/test-scenarios.md) | 32 Given/When/Then scenarios, including boundary, concurrency, timing, security, privacy and accessibility cases |
 | [Test scenarios CSV](docs/test-scenarios.csv) | Scenario table in a format suitable for importing into a test tracker |
